@@ -41,7 +41,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@np/utils",
+  "name": "@nipem/utils",
   "module": "dist/utils.esm.js",
   "size-limit": [
     {
