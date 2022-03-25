@@ -18,7 +18,7 @@ readonly maximumFractionDigits?: number;
 
 
 ```ts
-import { prettyBytes } from '@np/helper';
+import { prettyBytes } from '@nipem/utils';
 
 // Show the number with at most 1 fractional digit
 P(1920, {maximumFractionDigits: 1});

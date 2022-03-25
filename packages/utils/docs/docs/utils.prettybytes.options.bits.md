@@ -16,7 +16,7 @@ readonly bits?: boolean;
 
 
 ```ts
-import { prettyBytes } from '@np/helper';
+import { prettyBytes } from '@nipem/utils';
 P(1337, {bits: true});
 //=> '1.34 kbit'
 

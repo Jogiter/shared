@@ -16,7 +16,7 @@ readonly binary?: boolean;
 
 
 ```ts
-import { prettyBytes } from '@np/helper';
+import { prettyBytes } from '@nipem/utils';
 P(1000, {binary: true});
 //=> '1000 bit'
 P(1024, {binary: true});

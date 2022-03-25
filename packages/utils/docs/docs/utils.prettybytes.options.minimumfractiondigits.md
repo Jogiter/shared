@@ -18,7 +18,7 @@ readonly minimumFractionDigits?: number;
 
 
 ```ts
-import { prettyBytes } from '@np/helper';
+import { prettyBytes } from '@nipem/utils';
 
 // Show the number with at least 3 fractional digits
 P(1900, {minimumFractionDigits: 3});
