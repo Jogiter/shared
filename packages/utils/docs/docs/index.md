@@ -8,5 +8,5 @@
 
 |  Package | Description |
 |  --- | --- |
-|  [@np/utils](./utils.md) |  |
+|  [@nipem/utils](./utils.md) |  |
 
