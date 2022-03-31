@@ -17,7 +17,7 @@ export declare function toThousand(n: number, digits?: number): string;
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  n | number | number |
-|  digits | number | The number of digits to appear after the decimal point |
+|  digits | number | <i>(Optional)</i> The number of digits to appear after the decimal point |
 
 <b>Returns:</b>
 
@@ -33,6 +33,5 @@ formatted string
 toThousand(1234.5678) // 1,234.5678
 // set digits to 2
 toThousand(1234.5678, 2) // 1,234.57
-
 ```
 

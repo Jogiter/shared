@@ -26,6 +26,5 @@ P(1900, {minimumFractionDigits: 3});
 
 P(1900);
 //=> '1.9 kB'
-
 ```
 

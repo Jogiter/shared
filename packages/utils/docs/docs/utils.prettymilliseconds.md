@@ -17,7 +17,7 @@ export declare function prettyMilliseconds(milliseconds: number, keepMillisecond
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  milliseconds | number | 需要被格式化的时间，单位毫秒 |
-|  keepMilliseconds | boolean | 是否保留毫秒，默认保留 |
+|  keepMilliseconds | boolean | <i>(Optional)</i> 是否保留毫秒，默认保留 |
 
 <b>Returns:</b>
 
@@ -34,6 +34,5 @@ prettyMilliseconds(1337000001) // 15天11小时23分钟20秒1毫秒
 
 // 不保留毫秒
 prettyMilliseconds(1337000001, false) // 15天11小时23分钟20秒
-
 ```
 

@@ -34,6 +34,5 @@ parseMilliseconds(1337000001);
 // 	seconds: 20,
 // 	milliseconds: 1,
 // }
-
 ```
 

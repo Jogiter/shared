@@ -21,6 +21,5 @@ P(1000, {binary: true});
 //=> '1000 bit'
 P(1024, {binary: true});
 //=> '1 kiB'
-
 ```
 
