@@ -9,7 +9,7 @@ const config = {
   title: '公共函数库',
   tagline: '常用的工具函数',
   url: 'https://github.com/nipem/shared/',
-  baseUrl: '/utils/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
