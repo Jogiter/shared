@@ -20,7 +20,7 @@ export declare namespace Copy {
  *
  * @example
  * ```ts
- * import { copy } from '@np/helper';
+ * import { copy } from '@nipem/utils';
  * button.addEventListener('click', () => {
  *   copy('🦄🌈');
  * });
@@ -28,7 +28,7 @@ export declare namespace Copy {
  *
  * @example
  * ```ts
- * import { copy } from '@np/helper';
+ * import { copy } from '@nipem/utils';
  * const modalWithFocusTrap = document.getElementById('modal');
  * button.addEventListener('click', () => {
  * 	copy('🦄🌈', {

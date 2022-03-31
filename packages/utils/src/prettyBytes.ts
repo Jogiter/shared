@@ -15,7 +15,7 @@ export declare namespace PrettyBytes {
      *
      * @example
      * ```ts
-     * import { prettyBytes } from '@np/helper';
+     * import { prettyBytes } from '@nipem/utils';
      * P(1337, {bits: true});
      * //=> '1.34 kbit'
      * ```
@@ -28,7 +28,7 @@ export declare namespace PrettyBytes {
      *
      * @example
      * ```ts
-     * import { prettyBytes } from '@np/helper';
+     * import { prettyBytes } from '@nipem/utils';
      * P(1000, {binary: true});
      * //=> '1000 bit'
      * P(1024, {binary: true});
@@ -58,7 +58,7 @@ export declare namespace PrettyBytes {
      *
      * @example
      * ```ts
-     * import { prettyBytes } from '@np/helper';
+     * import { prettyBytes } from '@nipem/utils';
      *
      * // Show the number with at least 3 fractional digits
      * P(1900, {minimumFractionDigits: 3});
@@ -77,7 +77,7 @@ export declare namespace PrettyBytes {
      *
      * @example
      * ```ts
-     * import { prettyBytes } from '@np/helper';
+     * import { prettyBytes } from '@nipem/utils';
      *
      * // Show the number with at most 1 fractional digit
      * P(1920, {maximumFractionDigits: 1});
@@ -166,7 +166,7 @@ const toLocaleString = (
  *
  * @example
  * ```ts
- * import { prettyBytes } from '@np/helper';
+ * import { prettyBytes } from '@nipem/utils';
  * P(1337);
  * //=> '1.34 kB'
  * P(100);

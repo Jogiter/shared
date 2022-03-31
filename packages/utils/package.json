@@ -1,5 +1,5 @@
 {
-  "version": "0.7.0",
+  "version": "0.7.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -40,7 +40,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@np/utils",
+  "name": "@nipem/utils",
   "module": "dist/utils.esm.js",
   "size-limit": [
     {

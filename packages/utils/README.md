@@ -5,7 +5,7 @@ shared utils
 ## install
 
 ```sh
-$ yarn add @np/utils
+$ yarn add @nipem/utils
 ```
 
 ## develop
